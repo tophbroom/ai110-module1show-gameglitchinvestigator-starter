@@ -53,7 +53,7 @@ The bugs founds are:
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [ ] [Insert a screenshot of your fixed, winning game here](screenshot.png)
 
 ## 🚀 Stretch Features
 
